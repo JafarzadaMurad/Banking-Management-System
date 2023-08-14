@@ -1,0 +1,11 @@
+package enums;
+
+public enum ExceptionsEnums {
+
+    NOT_NULL_EXCEPTIONS,
+    EMAIL_ALREADY_EXIST_EXCEPTION,
+    ENTRY_LIMIT_EXCEPTION,
+    LACK_OF_FUNDS_EXCEPTION,
+    DATABASE_NULL_EXCEPTION,
+
+}
